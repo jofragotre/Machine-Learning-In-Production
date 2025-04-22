@@ -1,4 +1,4 @@
-This repo serves as notes / code tracking for the Machine Learning in Production coursera course by DeepLearning.AI
+# **NOTES**
 
 # Machine learning project lifecycle
 
