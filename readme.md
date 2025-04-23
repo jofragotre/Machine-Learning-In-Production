@@ -273,8 +273,6 @@ Shift focus from solely optimizing code/model to systematically improving data q
   - Track where data originated and how it was transformed (preprocessing steps, feature engineering, labeling process).
   - Important for debugging, auditing, understanding model behavior, and ensuring reproducibility.
 
-**(End of new/completed notes)**
-
 ## Scoping
 
 **Process:**
